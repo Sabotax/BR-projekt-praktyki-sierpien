@@ -5,5 +5,10 @@
     <Object Type="Package" Description="AreaContents">AreaContents</Object>
     <Object Type="Package">_100_MainPage</Object>
     <Object Type="Package">_200_AlarmPage</Object>
+<<<<<<< Updated upstream
+=======
+    <Object Type="Package">_300_ServicePage</Object>
+    <Object Type="Package">_500_ConrolPage</Object>
+>>>>>>> Stashed changes
   </Objects>
 </Package>
