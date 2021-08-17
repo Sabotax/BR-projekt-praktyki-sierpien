@@ -9,10 +9,9 @@
   </Element>
   <Element ID="Operat" Type="User">
     <Property ID="UserID" Value="2" />
-    <Property ID="Password" Value="LQUbLcYWoNYRz0LNWGnRoyQu78HPrnB38ID8omB4bIxxsaUu1EQ=" Description="Operat" />
+    <Property ID="Password" Value="LQUbLcYWoNYRz0LNWGnRoyQu78HPrnB38ID8omB4bIxxsaUu1EQ=" />
     <Group ID="Roles">
       <Property ID="Role[1]" Value="Operator" />
-      <Property ID="Role[2]" Value="Everyone" />
     </Group>
   </Element>
   <Element ID="Admin" Type="User">
@@ -20,7 +19,6 @@
     <Property ID="Password" Value="AxfFT3rpjp2w8nisWzMjC+VPG/77tFOuw6+XyeQA8rorpCGx6fk=" />
     <Group ID="Roles">
       <Property ID="Role[1]" Value="Administrators" />
-      <Property ID="Role[2]" Value="Everyone" />
     </Group>
   </Element>
 </Configuration>
