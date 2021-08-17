@@ -50,6 +50,12 @@
           <Variable Name="TableConfigurationStr" />
           <Variable Name="errorNameExists" />
         </Variable>
+        <Variable Name="Stop" />
+        <Variable Name="changeModePending" />
+        <Variable Name="CoordinateSystem" />
+        <Variable Name="NOTCoordinateSystem" />
+        <Variable Name="PathSystem" />
+        <Variable Name="ModeSystem" />
       </Task>
     </Module>
   </DefaultView>
