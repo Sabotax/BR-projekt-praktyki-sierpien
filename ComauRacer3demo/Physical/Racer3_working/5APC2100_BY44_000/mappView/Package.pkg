@@ -5,5 +5,8 @@
     <Object Type="File">Config.mappviewcfg</Object>
     <Object Type="Package">Racer3Vis</Object>
     <Object Type="Package">FileManage</Object>
+    <Object Type="File">Visualizat.vis</Object>
+    <Object Type="File">HalfAutoControlPageContent.binding</Object>
+    <Object Type="File">CalibrationPageContent.eventbinding</Object>
   </Objects>
 </Package>
