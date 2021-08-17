@@ -4,7 +4,6 @@
   <Objects>
     <Object Type="File">Config.mappviewcfg</Object>
     <Object Type="Package">Racer3Vis</Object>
-    <Object Type="Package">Package</Object>
-    <Object Type="File">DialogNameExistContent.eventbinding</Object>
+    <Object Type="Package">FileManage</Object>
   </Objects>
 </Package>

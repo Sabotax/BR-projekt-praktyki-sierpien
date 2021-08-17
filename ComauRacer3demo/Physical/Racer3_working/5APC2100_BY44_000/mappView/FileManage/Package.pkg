@@ -8,5 +8,6 @@
     <Object Type="File">DialogRenameContent.eventbinding</Object>
     <Object Type="File">DocsBrowserPageContent.eventbinding</Object>
     <Object Type="File">DocsBrowserPageContent.binding</Object>
+    <Object Type="File">DialogNameExistContent.eventbinding</Object>
   </Objects>
 </Package>
